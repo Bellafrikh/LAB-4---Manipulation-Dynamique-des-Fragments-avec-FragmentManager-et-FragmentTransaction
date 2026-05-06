@@ -1,6 +1,6 @@
 ﻿# LAB-4---Manipulation-Dynamique-des-Fragments-avec-FragmentManager-et-FragmentTransaction
-
-# Lab 4 : Gestion des Fragments sous Android
+**Auteur :** Zaynab Bellafrikh (4IIR-G2)  
+**Institution :** EMSI - École Marocaine des Sciences de l'Ingénieur
 
 ##  Présentation
 Ce projet est une application Android pédagogique démontrant l'utilisation des **Fragments**. L'objectif est de comprendre comment diviser une interface utilisateur en plusieurs parties réutilisables et comment naviguer entre elles dynamiquement au sein d'une seule activité (`MainActivity`).
